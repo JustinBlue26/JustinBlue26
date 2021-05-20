@@ -1,5 +1,15 @@
 ### Hi there 👋
 # Hi There
+
+- 🔭 I’m currently working on ... My FIRST Readme In Github!
+- 🌱 I’m currently learning ... Well...Github.
+- 👯 I’m looking to collaborate on ... Github. It's somewhat all encompassing just this minute.
+- 🤔 I’m looking for help with ... Github, I feel like we were establishing a pattern.
+- 💬 Ask me about ... My CAT! There I broke the vicious cycle.
+- 📫 How to reach me: ... It just kept going. Round and round. Which made it vicious. And also a cycle.
+- 😄 Pronouns: ... He/Him/His
+- ⚡ Fun fact: ... I'm not Batman!
+- 
 <!--
 **JustinBlue26/JustinBlue26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
